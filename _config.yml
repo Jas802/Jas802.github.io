@@ -1,11 +1,11 @@
 # Site settings
 author: Jas Spencer
-title: 
+title: Cracking the code on coding
 header-img: img/home-bg.png
 email: jas.spencer414@gmail.com
 copyright_name: Jas Spencer
 description: > # this means to ignore newlines until "baseurl:"
-  
+  How to get computer programs to bend to your will
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jas802
