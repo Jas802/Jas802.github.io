@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I've gone off the Rails . . ."
-date:       2020-04-19 16:00:13 +0000
+date:       2020-04-19 12:00:14 -0400
 permalink:  ive_gone_off_the_rails
 ---
 
@@ -32,6 +32,7 @@ If you want to limit what routes your models have i.e. a little bit of RESTful k
 <resources: users, only: [:index, :create, :new]>
 
 With that, we can say to the DESTROY route:
+
 ![](https://media.giphy.com/media/RX3vhj311HKLe/giphy.gif)
 
 But wait, there's more!
