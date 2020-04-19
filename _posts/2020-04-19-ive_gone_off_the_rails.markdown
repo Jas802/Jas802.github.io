@@ -22,18 +22,14 @@ The more routes you define, the more dots you can connect, if you want full REST
 
 <resources: users>
 
-![](https://media.giphy.com/media/3o84sq21TxDH6PyYms/giphy.gif)
-
-
 
 Just like that, Rails has created routes for INDEX, NEW, CREATE, EDIT, UPDATE, SHOW, and DESTROY.
 If you want to limit what routes your models have i.e. a little bit of RESTful kryptonite, you can use ":only" in conjuction with "resources:" to limit routes.
 
 <resources: users, only: [:index, :create, :new]>
 
-With that, we can say to the DESTROY route:
+With that, we can say to the DESTROY route: "You have no power here!"
 
-![](https://media.giphy.com/media/RX3vhj311HKLe/giphy.gif)
 
 But wait, there's more!
 
