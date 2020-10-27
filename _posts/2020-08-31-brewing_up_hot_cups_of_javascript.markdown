@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Brewing Up Hot Cups of JavaScript"
-date:       2020-08-31 14:08:16 +0000
+date:       2020-08-31 10:08:17 -0400
 permalink:  brewing_up_hot_cups_of_javascript
 ---
 
 
-Coding puns adise. . .
+Coding puns aside. . .
 
 For my latest poroject, introduced my established and clean cut friend Rails, to my newer, slightly edgier friend JavaScript and made them work together to create a trivia quiz.
 
