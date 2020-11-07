@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Basic Reaction to React (Also Redux)"
-date:       2020-11-07 18:12:12 +0000
+date:       2020-11-07 13:12:13 -0500
 permalink:  basic_reaction_to_react_also_redux
 ---
 
